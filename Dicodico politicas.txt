@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidad - Dicodico</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+        }
+        h1, h2 {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <h1>Política de Privacidad</h1>
+    <p><strong>Última actualización:</strong> 28-03-2025</p>
+    
+    <h2>1. Introducción</h2>
+    <p>Bienvenido a Dicodico. Esta aplicación es un diccionario diseñado para ayudar a los usuarios a encontrar significados de palabras en diferentes idiomas. Nos tomamos en serio tu privacidad y esta política explica cómo manejamos tu información.</p>
+    
+    <h2>2. Información que Recopilamos</h2>
+    <p>Dicodico no recopila información personal de los usuarios. Sin embargo, la aplicación puede utilizar servicios de terceros que recopilan datos con el propósito de mostrar anuncios.</p>
+    
+    <h2>3. Permisos Solicitados</h2>
+    <p>La aplicación solicita acceso a Internet exclusivamente para:</p>
+    <ul>
+        <li>Cargar anuncios publicitarios a través de servicios de terceros.</li>
+        <li>Asegurar una experiencia fluida dentro de la aplicación.</li>
+    </ul>
+    
+    <h2>4. Servicios de Terceros</h2>
+    <p>Podemos utilizar plataformas de publicidad como Google AdMob para mostrar anuncios dentro de la aplicación. Estos servicios pueden recopilar información anónima para ofrecer anuncios personalizados. Te recomendamos revisar sus políticas de privacidad:</p>
+    <p><a href="https://policies.google.com/privacy" target="_blank">Política de privacidad de Google AdMob</a></p>
+    
+    <h2>5. Seguridad</h2>
+    <p>Nos esforzamos por proteger la seguridad de la aplicación y garantizar que no se almacene ni comparta información sensible de los usuarios.</p>
+    
+    <h2>6. Cambios en esta Política</h2>
+    <p>Nos reservamos el derecho de actualizar esta política en cualquier momento. Se recomienda revisar esta página periódicamente para conocer cualquier cambio.</p>
+    
+    <h2>7. Contacto</h2>
+    <p>Si tienes preguntas sobre esta política de privacidad, puedes contactarnos en: <strong>ellyxeo@gmail.com</strong></p>
+</body>
+</html>
